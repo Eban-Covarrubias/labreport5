@@ -33,6 +33,7 @@ This is the original java file with a failing merge method:
 <img width="352" alt="image" src="https://github.com/Eban-Covarrubias/labreport5/assets/130101682/f2cbb103-2d73-427a-9bb0-bf7d75fe8e25">
 
 Here is the contents of grade.sh:
+
 <img width="399" alt="image" src="https://github.com/Eban-Covarrubias/labreport5/assets/130101682/27884f1f-3c35-410f-b8be-f10d105aafef">
 
 <img width="475" alt="image" src="https://github.com/Eban-Covarrubias/labreport5/assets/130101682/7c370f52-8604-442e-bbf2-54050b38f2a7">
